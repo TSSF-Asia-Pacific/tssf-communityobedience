@@ -5,6 +5,7 @@
     <meta name="mobile-web-app-capable" content="yes">
     <link rel="icon" sizes="196x196" href="images/Icon.png">
     <link rel="apple-touch-icon" sizes="128x128" href="images/AppleIcon.png">
+    <link rel="manifest" href="manifest.json">
     <title>tssf Community Obedience</title>
     <link rel="stylesheet" href="bootstrap-3.1.1-dist/css/bootstrap.min.css">
 

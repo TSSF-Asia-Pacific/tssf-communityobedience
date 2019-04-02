@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# Version 2019-04-03 07:05
+# Version 2019-04-03 07:16
 
 CACHE:
 index.php
@@ -12,6 +12,7 @@ images/paper.gif
 images/AppleIcon.png
 images/Icon.png
 images/golden-paper.jpg
+manifest.json
 
 NETWORK:
 *
